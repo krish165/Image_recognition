@@ -1,0 +1,33 @@
+body{
+    background-color:crimson ;
+    color:white;
+}
+.Head
+{
+    width:100%;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.name_obj
+{
+    font-size: 19px;
+    font-family: cursive;
+    color:darksalmon;
+}
+#cam
+{
+    height: 400px;
+    width:400px;
+    border-radius: 5px;
+    border:dashed white;
+    
+}
+#result_object_name
+{
+    color:darksalmon;
+}
+#result_object_accuracy
+{
+    color:#8affa9;
+}
